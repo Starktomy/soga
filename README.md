@@ -1,6 +1,6 @@
 简单安装
 
-sudo bash < <(curl -Ls https://raw.githubusercontent.com/RManLuo/crack-soga-v2ray/master/install.sh)
+sudo bash < <(curl -Ls https://raw.githubusercontent.com/Starktomy/soga/master/install.sh)
 
 详细教程：[进入](https://soga.vaxilu.com)
 
