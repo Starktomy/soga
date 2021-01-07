@@ -1,3 +1,6 @@
+简单安装
+sudo bash < <(curl -Ls https://raw.githubusercontent.com/RManLuo/crack-soga-v2ray/master/install.sh)
+
 详细教程：[进入](https://soga.vaxilu.com)
 
 商业版价格：[进入](https://soga.vaxilu.com/future/get-license-code)
